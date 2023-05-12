@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.div{
+    margin-left: 95px;
+    margin-top: 50px;
+}
+.card-img-top{
+
+    height: 200px;
+}
+.btn{
+
+    background-color:rgb(143, 143, 206);
+    border-radius: 20px;
+    color: aliceblue;
+}

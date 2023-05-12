@@ -1,0 +1,21 @@
+.form{
+
+   
+    
+}
+.label{
+    font-size:larger;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.form_div{
+
+    margin-top: 40px;
+}
+.button{
+    border-color: aquamarine;
+    border-radius: 12px;
+    background-color: rgb(91, 91, 216);
+    color: aliceblue;
+}
+

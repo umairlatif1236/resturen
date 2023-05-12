@@ -1,0 +1,43 @@
+
+.h{
+display: flex;
+flex-direction: row;
+
+
+ }
+ .link{
+    margin-left: 100px;
+    padding-top: 50px;
+ }
+ .m{
+color: aliceblue;
+
+    
+ }
+ @media only screen and (max-width: 450px) {
+   .h {
+
+display: flex;
+      background-color: lightblue;
+      flex-direction: column;
+    
+    }
+    .link{
+     padding-right: 150px;
+        padding-top: 50px;
+    }
+  }
+  @media only screen and (max-width: 450px) {
+
+    .h{
+        margin: auto;
+    }
+    .link{
+        
+
+        padding-right: 350px;
+    }
+  }
+
+
+
